@@ -1,5 +1,6 @@
 {
   "name": "weatherapp",
+  "homepage": "https://mprasad3.github.io/Weather-Application/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
